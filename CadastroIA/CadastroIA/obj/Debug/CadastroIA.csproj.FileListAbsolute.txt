@@ -1,0 +1,422 @@
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe.config
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.pdb
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form1.resources
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.exe
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.pdb
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_servico.mdf
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_servico_log.ldf
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.xml
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.CopyComplete
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs.mdf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs_log.ldf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Permissions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form1.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Properties.Resources.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form2.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\CadastroIA_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.FormSplashScreen.resources
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs.mdf
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs2019.mdf
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs2019_log.ldf
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs_log.ldf
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe.config
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.pdb
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.xml
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form1.resources
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form2.resources
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.FormSplashScreen.resources
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.CopyComplete
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.exe
+C:\Users\Aluno\Desktop\CadastroIANovo_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs.mdf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs2019.mdf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs2019_log.ldf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs_log.ldf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Permissions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form1.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form2.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.FormSplashScreen.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Properties.Resources.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Atualizado24-10_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs.mdf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs2019.mdf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs2019_log.ldf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\bd_IAs_log.ldf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\CadastroIA.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Core.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Azure.Identity.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Buffers.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ClientModel.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Memory.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Permissions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Text.Json.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\System.ValueTuple.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form1.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Form2.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.FormSplashScreen.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.Properties.Resources.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\4º BIM\ProjetoIA_Final_Lucas_MatheusPereira\CadastroIA\CadastroIA\obj\Debug\CadastroIA.pdb

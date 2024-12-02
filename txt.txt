@@ -1,0 +1,21 @@
+CREATE TABLE [dbo].[IA] (
+    [id_IA]         INT             IDENTITY (1, 1) NOT NULL,
+    [nm_IA]         VARCHAR (55)    NOT NULL,
+    [AnoLanc_IA]    VARCHAR (55)    NOT NULL,
+    [Logo_IA]       VARBINARY (MAX) NULL,
+    [Fabricante_IA] VARCHAR (55)    NOT NULL,
+    [Aparelho_IA]   VARCHAR (55)    NOT NULL,
+    [Categoria_IA]  VARCHAR (55)    NOT NULL,
+    PRIMARY KEY CLUSTERED ([id_IA] ASC)
+);
+
+
+CREATE TABLE [dbo].[CategoriaFabricante] (
+    [id_CategoriaFabricante]  INT           IDENTITY (1, 1) NOT NULL,
+    [fk_CategoriaNome]        VARCHAR (55)  NOT NULL,
+    [ds_Categoria]            VARCHAR (225) NULL,
+    [fk_FabricanteNome]       VARCHAR (55)  NOT NULL,
+    [Proprietario_Fabricante] VARCHAR (55)  NULL,
+    [Pais_Origem_Fabricante]  VARCHAR (55)  NULL,
+    CONSTRAINT [PK_CategoriaFabricante] PRIMARY KEY CLUSTERED ([id_CategoriaFabricante] ASC)
+);
